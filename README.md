@@ -1,7 +1,7 @@
 # Playwright_PageObjectModel
 Based on WebdriverIO Tutorials by Raghav Pal 
 
-https://automationstepbystep.com/
+https://youtu.be/rAec3mZFhF0
 ***
 This project was created by [Raghav Pal](https://automationstepbystep.com/about-me/) while doing a DEMO tutorial on How to create Page Object Model framework in Playwright
 This is done on a Node project with JavaScript
